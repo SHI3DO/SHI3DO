@@ -3,7 +3,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/Shio7)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/643116087919116298)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ParfaitShio)
-[![Website](https://img.shields.io/website?label=shi.io&style=for-the-badge&url=https://shi.io)](https://shi.io)    
+[![Website](https://img.shields.io/website?label=shiii.io&style=for-the-badge&url=https://shiii.io)](https://shiii.io)    
 ![](https://komarev.com/ghpvc/?username=shio7&color=blueviolet)
 
 ## ✨ My Status
