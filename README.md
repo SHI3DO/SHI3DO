@@ -7,8 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=shio7&color=blueviolet)
 
 ## ✨ My Status
-+ Currently I am a bit busy with my studies.
-+ I'm making some games, and sometimes I make music together.  
++ Currently I am a bit busy with my studies.  
 
 ## My statistics:  
 [![Shio's Github Status](https://github-readme-stats.vercel.app/api?username=shio7&show_icons=true&layout=compact&theme=buefy)](https://github.com/shio7)
