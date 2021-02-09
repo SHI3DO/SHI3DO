@@ -12,4 +12,3 @@
 ## My statistics:  
 [![Shio's Github Status](https://github-readme-stats.vercel.app/api?username=shio7&show_icons=true&layout=compact&theme=buefy)](https://github.com/shio7)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shio7&layout=compact&theme=buefy)
- 
