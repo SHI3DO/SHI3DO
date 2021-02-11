@@ -2,7 +2,7 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/Shio7)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/643116087919116298)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ParfaitShio)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SHI3DO)
 [![Website](https://img.shields.io/website?label=parfait.io&style=for-the-badge&url=https://parfait.io)](https://parfait.io)    
 ![](https://komarev.com/ghpvc/?username=shio7&color=blueviolet)
 
