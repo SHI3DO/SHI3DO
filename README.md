@@ -3,12 +3,12 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/Shio7)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/643116087919116298)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SHI3DO)
-[![Website](https://img.shields.io/website?label=parfait.io&style=for-the-badge&url=https://parfait.io)](https://parfait.io)    
+[![Website](https://img.shields.io/website?label=shii.io&style=for-the-badge&url=https://parfait.io)](https://shii.io)    
 ![](https://komarev.com/ghpvc/?username=shio7&color=blueviolet)
 
 ## ✨ My Status
 + Currently I am a bit busy with my studies.  
 
 ## My statistics:  
-[![Shio's Github Status](https://github-readme-stats.vercel.app/api?username=shio7&show_icons=true&layout=compact&theme=buefy)](https://github.com/shio7)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shio7&layout=compact&theme=buefy)
+[![Shio's Github Status](https://github-readme-stats.vercel.app/api?username=SHI3DO&show_icons=true&layout=compact&theme=buefy)](https://github.com/SHI3DO)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHI3DO&layout=compact&theme=buefy)
