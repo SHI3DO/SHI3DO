@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/643116087919116298)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SHI3DO)
 [![Website](https://img.shields.io/website?label=shii.io&style=for-the-badge&url=https://parfait.io)](https://shii.io)    
-![](https://komarev.com/ghpvc/?username=shio7&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=SHI3DO&color=blueviolet)
 
 ## ✨ My Status
 + Currently I am a bit busy with my studies.  
