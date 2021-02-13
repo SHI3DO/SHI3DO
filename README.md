@@ -1,4 +1,4 @@
-<h1 align="left">Hi,<a target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width:100%;"></a> I'm Shio</h1>
+<h1 align="left">Hi,<a target="_blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="max-width:100%;"></a> I'm SHIO</h1>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/Shio7)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/643116087919116298)
