@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/website?label=shii.io&style=for-the-badge&url=https://parfait.io)](https://shii.io)    
 ![](https://komarev.com/ghpvc/?username=SHI3DO&color=blueviolet)
 
-## ✨ My Status
+## My Status
 + Currently I am a bit busy with my studies.  
 
 ## My statistics:  
