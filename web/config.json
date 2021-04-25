@@ -1,0 +1,19 @@
+{
+  "base_url": "https://chinnamon.vercel.app",
+  "site_title": "Chinnamon Bot",
+  "site_description": "시나몬 디스코드 봇을 만나보세요!",
+  "site_keywords": [
+    {
+      "keyword": "Discord"
+    },
+    {
+      "keyword": "Chinnamon"
+    },
+    {
+      "keyword": "Bot"
+    }
+  ],
+  "posts_per_page": 8,
+  "twitter_account": "SHI3DO",
+  "github_account": "SHI3DO"
+}
