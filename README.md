@@ -11,4 +11,4 @@
 
 ## My statistics:  
 [![Shio's Github Status](https://github-readme-stats.vercel.app/api?username=SHI3DO&show_icons=true&layout=compact&theme=buefy)](https://github.com/SHI3DO)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHI3DO&layout=compact&theme=buefy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHI3DO&layout=compact&theme=buefy) 
