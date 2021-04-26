@@ -13,10 +13,10 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            Cinnamon Bot<span className="fancy">.</span>
+            SHI3DO<span className="fancy">.</span>
           </h1>
-          <span className="handle">@versatile-discord-bot</span>
-          <h2>시나몬 봇!</h2>
+          <span className="handle">@SHI3DO</span>
+          <h2>SHI3 SHI3 SHI3</h2>
           <SocialList />
         </div>
       </div>
